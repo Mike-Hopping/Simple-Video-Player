@@ -1,0 +1,13 @@
+{
+    "categories": [
+        {
+            "id": "1",
+            "slug": "Web-Design",
+            "title": "Web-Design"
+        }, {
+            "id": "2",
+            "slug": "Web-Development",
+            "title": "Web-Development"
+        }
+    ]  
+}

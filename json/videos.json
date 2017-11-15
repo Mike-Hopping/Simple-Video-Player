@@ -1,0 +1,25 @@
+{
+    "videos": [
+        {
+            "id": "9XVasMSJSoU",
+            "title": "The Developer Show",
+            "category": "Web-Development"
+        }, {
+            "id": "Di7RvMlk9io",
+            "title": "Wordpress + PWA's",
+            "category": "Web-Design"
+        }, {
+            "id": "EtQ8Le8-zyo",
+            "title": "Developer Keynote",
+            "category": "Web-Development"
+        }, {
+            "id": "sZWMPYIkNd8",
+            "title": "Android Kotlin",
+            "category": "Web-Design"
+        }, {
+            "id": "0ueamFGdOpA",
+            "title": "Past, Present and Future of AI",
+            "category": "Web-Development"
+        }
+    ]  
+}
